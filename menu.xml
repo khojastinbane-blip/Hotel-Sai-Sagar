@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <item>
+        <name>Veg Thali</name>
+        <description>Chapati, rice, dal, vegetables and salad.</description>
+        <price>180</price>
+    </item>
+    <item>
+        <name>Paneer Butter Masala</name>
+        <description>Paneer cooked in a creamy tomato gravy.</description>
+        <price>220</price>
+    </item>
+    <item>
+        <name>Masala Dosa</name>
+        <description>Crispy dosa served with chutney and sambar.</description>
+        <price>120</price>
+    </item>
+    <item>
+        <name>Veg Biryani</name>
+        <description>Flavourful rice cooked with vegetables and spices.</description>
+        <price>160</price>
+    </item>
+    <item>
+        <name>Misal Pav</name>
+        <description>Spicy Maharashtrian misal served with pav.</description>
+        <price>100</price>
+    </item>
+    <item>
+        <name>Cold Coffee</name>
+        <description>Chilled coffee topped with a light foam.</description>
+        <price>90</price>
+    </item>
+</menu>
